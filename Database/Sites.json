@@ -1,0 +1,24 @@
+{
+    "sites": [{
+        "name": "youtube",
+        "link": "https://www.youtube.com"
+    }, {
+        "name": "wikipedia",
+        "link": "https://www.wikipedia.org"
+    }, {
+        "name": "google",
+        "link": "https://www.google.com"
+    }, {
+        "name": "gmail",
+        "link": "https://mail.google.com/mail/u/0/"
+    }, {
+        "name": "whatsapp web",
+        "link": "https://web.whatsapp.com"
+    }, {
+        "name": "instagram web",
+        "link": "https://www.instagram.com"
+    }, {
+        "name": "google drive",
+        "link": "https://drive.google.com/drive/my-drive"
+    }]
+}

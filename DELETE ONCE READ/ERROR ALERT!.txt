@@ -1,0 +1,19 @@
+******ERROR ALERT!******
+_________________________
+
+
+
+IF THIS ERROR EVER SHOWS-->"unexpected alert open: {Alert text : Usage Limit exceeded}"
+
+
+
+Step 1: Open "main.py" in an editor.
+Step 2: Locate this command-->"from Functions.ChromeSpeak import say".
+Step 3: Comment the particular command by using "#" before the command.
+Step 4: Uncomment this command-->"from Functions.WindowsSpeak import say".
+Step 5: Do the same for "Chat.py" file in "Functions" folder.
+
+
+
+YOU ARE GOOD TO GO!!!!!
+HAVE FUN :D

@@ -1,0 +1,18 @@
+ Here is a simple Python code that checks if a number is even or odd:
+
+```python
+def check_even_odd(n):
+    if n % 2 == 0:
+        return "Even"
+    else:
+        return "Odd"
+
+# Test the function
+numbers = [1, 2, 3, 4, 5, 6]
+for number in numbers:
+    print(f"{number}: {check_even_odd(number)}")
+```
+
+In this code, we define a function `check_even_odd(n)` that takes an integer `n` as an argument and returns "Even" if `n` is even (i.e., divisible by 2 with no remainder) and "Odd" otherwise.
+
+Then, we create a list of numbers and iterate over them, printing out whether each number is even or odd using the `check_even_odd` function.

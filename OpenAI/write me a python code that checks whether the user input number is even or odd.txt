@@ -1,0 +1,21 @@
+OpenAI response for Prompt: using ai write me a python code that checks whether the user input number is even or odd 
+ **************** 
+
+Sure! Here's a Python code that checks whether the user input number is even or odd:
+
+```python
+# Get the user input number
+num = int(input("Enter a number: "))
+
+# Check if the number is even or odd
+if num % 2 == 0:
+    print(num, "is even")
+else:
+    print(num, "is odd")
+```
+
+Here's how the code works:
+
+1. It prompts the user to enter a number using the `input()` function and converts the input to an integer using `int()`.
+2. It then checks if the number is divisible by 2 using the modulo operator `%`. If the remainder is 0, the number is even; otherwise, it is odd.
+3. If the number is even, it prints a message stating that the number is even. Otherwise, it prints a message stating that the number is odd.

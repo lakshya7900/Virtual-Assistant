@@ -1,0 +1,14 @@
+OpenAI response for Prompt: using AI write me a python code that changes a string on input 
+ **************** 
+
+
+
+# This code will take a user input string and output the string with all uppercase letters
+
+user_string = input("Please enter a string: ")
+
+# convert the user's string to all uppercase
+upper_string = user_string.upper()
+
+# print the new string
+print("The new string is:", upper_string)
